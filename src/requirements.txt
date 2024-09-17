@@ -28,8 +28,8 @@ gpustat
 prompt_toolkit
 rich
 bitarray
-ray==2.6.3
-vllm==0.1.4 # ! Ensure version <= 0.1.4, later versions have unsolved bugs.
+ray==2.7.0
+vllm==0.5.5 # ! Ensure version <= 0.1.4, later versions have unsolved bugs.
 cvxpy
 func-timeout
 timeout-decorator
